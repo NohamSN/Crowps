@@ -1,4 +1,58 @@
-.container-temporaire {
-    background-color: rgba(32, 31, 31, 0);
+a.w-webflow-badge {
+    visibility: hidden !important;
+    opacity: 0 !important;
+    z-index: 0 !important;
+    display: none !important;
 }
+.footer-section-contact {
+    margin-top: 0px;
+    padding: 104px 5% 80px;
+    background-color: #151514;
+}
+.footer-section-about {
+    margin-top: 0px;
+    padding: 104px 5% 80px;
+    background-color: #151514;
+}
+.section-feature {
+    position: relative;
+    padding: 10px 5%;
+}
+::selection {
+    color: #fff;
+    background: #d1ab89;
+    }
+body.aboutbody {
+    overflow-x: hidden !important;
+}
+div.back-btn {
+    
+    justify-content: center;
+}
+a.btn-back {
+    position: absolute; /* Position absolue pour le positionner en haut à gauche */
+  top: 10%; /* Distance de 10% depuis le haut de la page */
+  left: 10%; /* Distance de 10% depuis la gauche de la page */
+  background-color: rgba(0, 0, 0, 0.891);
+  color: #fff;
+  padding: 5px 20px;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: Inter,sans-serif;
+}
+.link-remboursement {
+    text-decoration: none;
+    color: #d1ab89;
+}
+.cta-left {
 
+    background-image: url('https://i.ibb.co/FX2D6L8/img-1-accueil.png');
+    
+}
+.header-button-wrapper1 {
+    max-width: 100%;
+    margin-top: 40px;
+    justify-content: center;
+    display: flex;
+}
