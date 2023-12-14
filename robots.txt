@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+#sitemap
+
+Sitemap: https://crowps.com/sitemap.xml
