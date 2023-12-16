@@ -7,8 +7,28 @@
 
 
 <url>
-  <loc>https://crowps.com/</loc>
-  <lastmod>2023-12-13T19:01:16+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://crowps.com/</loc>
+<lastmod>2023-12-16T21:08:07+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://crowps.com/index.html</loc>
+<lastmod>2023-12-16T21:08:07+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://crowps.com/%C3%A0-propos.html</loc>
+<lastmod>2023-12-16T21:40:25+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://crowps.com/contact.html</loc>
+<lastmod>2023-12-16T11:23:28+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://crowps.com/questions-fr%C3%A9quentes.html</loc>
+<lastmod>2023-12-16T11:23:28+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 </urlset>
