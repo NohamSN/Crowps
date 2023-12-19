@@ -56,6 +56,11 @@ a.btn-back {
     justify-content: center;
     display: flex;
 }
+.link-commu {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
 
 
 
