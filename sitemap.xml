@@ -1,34 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
 <loc>https://crowps.com/</loc>
-<lastmod>2023-12-16T21:08:07+00:00</lastmod>
+<lastmod>2024-02-01T23:40:49+00:00</lastmod>
 <priority>1.00</priority>
 </url>
 <url>
 <loc>https://crowps.com/index.html</loc>
-<lastmod>2023-12-16T21:08:07+00:00</lastmod>
+<lastmod>2024-02-01T23:40:49+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ressources.crowps.com/</loc>
+<lastmod>2024-02-01T23:40:49+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://crowps.com/%C3%A0-propos.html</loc>
-<lastmod>2023-12-16T21:40:25+00:00</lastmod>
+<lastmod>2024-02-04T12:05:15+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://crowps.com/contact.html</loc>
-<lastmod>2023-12-16T11:23:28+00:00</lastmod>
+<lastmod>2024-02-04T12:05:15+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://crowps.com/questions-fr%C3%A9quentes.html</loc>
-<lastmod>2023-12-16T11:23:28+00:00</lastmod>
+<lastmod>2024-02-04T12:05:15+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 </urlset>
