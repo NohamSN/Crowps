@@ -3397,20 +3397,11 @@ a.btn-back {
      margin-top: 0px;
      margin-bottom: 0px;
      font-family: Zodiak, sans-serif;
-     font-size: 64px;
+     font-size: 58px;
      line-height: 1.2;
      font-weight: 700;
      letter-spacing: -0.02em;
    }
-   .h1-title {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-family: Zodiak, sans-serif;
-    font-size: 58px;
-    line-height: 1.2;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-  }
    
    .fb-style-grid {
      grid-column-gap: 32px;
@@ -8761,9 +8752,6 @@ a.btn-back {
      .h1-heading {
        font-size: 48px;
      }
-     .h1-title {
-      font-size: 46px;
-    }
    
      .section-x-large {
        padding-top: 72px;
@@ -9029,9 +9017,6 @@ a.btn-back {
    }
    
    @media screen and (max-width: 479px) {
-     .h1-title {
-       font-size: 48px;
-     }
      .document-table-header {
        width: 100%;
      }
