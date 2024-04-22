@@ -9029,6 +9029,9 @@ a.btn-back {
    }
    
    @media screen and (max-width: 479px) {
+     .h1-heading-title {
+       font-size: 48px;
+     }
      .document-table-header {
        width: 100%;
      }
